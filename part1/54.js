@@ -12,3 +12,4 @@ function myFunc(callback){
 
 
 myFunc(myFunc2);
+//callback is a basic naming procedure that we give while calling a function as a parameter to another function 
